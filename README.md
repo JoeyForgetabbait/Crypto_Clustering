@@ -8,11 +8,9 @@ Predict the affectedness of cryptocurrencies on 7 and 24 hour time changes.
 
 Interpretation of this data simple. Interestingly enough, there is no difference in best fit value for K when using the PCA vs the original data, while they did have slightly different optimum data cluster numbers for the model. 
 
-<img width="683" alt="Screenshot 2024-08-06 at 8 26 45 PM" src="https://github.com/user-attachments/assets/b1792205-eea7-43de-8e64-92a1c81e1e85">
+<img width="703" alt="Screenshot 2024-08-06 at 8 28 15 PM" src="https://github.com/user-attachments/assets/4e5b4969-3e9c-4093-954e-b990bf0fd151">
 
 <img width="688" alt="Screenshot 2024-08-06 at 8 27 15 PM" src="https://github.com/user-attachments/assets/131efb34-3fe4-4058-a3ed-6da3d4e03e10">
-
-<img width="703" alt="Screenshot 2024-08-06 at 8 28 15 PM" src="https://github.com/user-attachments/assets/4e5b4969-3e9c-4093-954e-b990bf0fd151">
 
 <img width="674" alt="Screenshot 2024-08-06 at 8 36 20 PM" src="https://github.com/user-attachments/assets/8b07aecd-f69b-4b8b-a7b2-dd23cf2a195c">
 
